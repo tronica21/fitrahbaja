@@ -45,19 +45,19 @@ const Navbar = () => {
 								</ListItem>
 								<ListItem
 									navItemStyles="text-indigo-100 hover:text-primary"
-									NavLink="/#product"
+									NavLink="/fitrahbaja/#product"
 								>
 									Product
 								</ListItem>
 								<ListItem
 									navItemStyles="text-indigo-100 hover:text-primary"
-									NavLink="/profile"
+									NavLink="/fitrahbaja/profile"
 								>
 									Profile Fitrah Baja
 								</ListItem>
 								<ListItem
 									navItemStyles="text-indigo-100 hover:text-primary"
-									NavLink="/#contact"
+									NavLink="/fitrahbaja/#contact"
 								>
 									Kontak Kami
 								</ListItem>
